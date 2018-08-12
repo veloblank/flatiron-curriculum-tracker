@@ -10,6 +10,8 @@ gem 'thin'
 gem 'shotgun'
 gem 'pry'
 gem 'bcrypt'
+gem 'nokogiri'
+gem 'net/http'
 gem "tux"
 
 group :test do
